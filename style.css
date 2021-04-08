@@ -1,0 +1,19 @@
+#logo{
+    float: left; 
+	margin-top: 5px;
+}
+#title h2{
+    display: inline;  
+	margin-top: -20px;
+	margin: 0%;
+}
+
+#right{
+	display: inline;
+	float: right;
+	margin-top: -50px;
+}
+
+.last2{
+	margin-left: 10px;
+}
