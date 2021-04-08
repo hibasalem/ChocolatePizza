@@ -85,6 +85,7 @@ margin-right: 15%;}
 	background-size: cover;  
 	height: 300px; 
 	margin-bottom: 45px;
+	box-shadow: 0px 10px 8px #a7a3a3;
 	
 }
 label{font-family: 'Handlee', cursive;
@@ -152,5 +153,8 @@ hr{
 	text-align: center;
 	padding: 10px;
 
+}
+#cross{
+	text-decoration:line-through;
 }
 
