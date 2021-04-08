@@ -1,19 +1,156 @@
+body{margin-left: 15%;
+margin-right: 15%;}
+
 #logo{
     float: left; 
 	margin-top: 5px;
+	margin-right: 10px;
 }
 #title h2{
     display: inline;  
-	margin-top: -20px;
+	/* margin-top: -20px; */
 	margin: 0%;
-}
 
+}
+#h22{font-family: 'Pacifico', cursive;
+	font-style: italic;
+	font-size: 27px;
+
+
+}
+#p{margin-top: -35px;
+	font-size: 12px;
+	color: rgb(173, 168, 168);
+	font-family: 'Roboto', sans-serif;
+}
 #right{
 	display: inline;
 	float: right;
-	margin-top: -50px;
+	margin-top: -30px;
 }
 
 .last2{
 	margin-left: 10px;
 }
+
+#lining{background-image: url("https://raw.githubusercontent.com/LTUC/amman-201d20/main/class-10/lab-a/lab-assets/hr-img.png");  
+ background-repeat: repeat; 
+ /* background-size: cover;  */
+ height: 15px; 
+ text-align: center;
+ margin-top: 20px;
+
+}
+
+
+#h11{font-family: 'Noto Sans JP', sans-serif;
+	font-weight: bolder;
+	
+	font-size: 35px;
+
+
+}
+#p2{ margin-top: -25px;
+	font-size: 12px;
+	color: rgb(173, 168, 168);
+	font-family: 'Roboto', sans-serif;
+	margin-left: 2px;
+}
+#right{
+	display: inline;
+	float: right;
+	margin-top: -30px;
+}
+#print{margin-top: -60px;
+	float: right;
+	display: inline;
+
+
+}
+#print p{display: inline;
+	color: rgb(173, 168, 168);
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+
+}
+#bigimg{
+	width:100%;
+}
+.par{font-size: 22px;
+	color: rgb(97, 95, 95);
+
+}
+#check{background-image:url("https://raw.githubusercontent.com/LTUC/amman-201d20/main/class-10/lab-a/lab-assets/list-bg.png") ;
+	background-repeat: no-repeat; 
+	background-size: cover;  
+	height: 300px; 
+	margin-bottom: 45px;
+	
+}
+label{font-family: 'Handlee', cursive;
+font-weight: bold;
+font-size: 23px;
+color: rgba(78, 76, 76, 0.883);}
+
+#checkleft{display: block;
+	float: left;
+	width: 45%;
+	margin-left: 60px;
+	margin-top: 42px;
+	
+}
+#checkright{display: block;
+float:right;
+width: 45%;
+margin-top: 42px;
+
+
+}
+#photo{
+	display: inline;
+	float: left;
+}
+#footer{margin-left: 10px;
+
+}
+#footer p{
+	display:inline; 
+	margin-left: 20px; 
+	font-size: 20px;
+	color: rgb(109, 107, 107);
+	
+}
+#footer h3{
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 77px;
+	margin-bottom: 0px;	
+}
+
+button{color: rgb(230, 220, 220);
+background-color: rgba(175, 89, 76, 0.952) ;
+padding: 12px;
+
+
+float: right;
+margin-top:-55px;
+}
+
+#finallogo{margin-top: 80px;
+	clear: both;
+	margin-left: auto;
+    margin-right: auto;
+	display: block;
+	margin-bottom: 25px;
+}
+hr{
+	margin-top: -42.5px;
+	
+}
+#last{ margin-top: 30px;
+	color: rgb(173, 168, 168);
+	text-align: center;
+	padding: 10px;
+
+}
+
